@@ -7,7 +7,7 @@
     - An example of such a setting is "LDAP_SEARCH_QUERY": "(|(sAMAccountName={0})(mail={0})(userPrincipalName={0})(cn={0}))"
 3. Make note of the Global client_id and client_secret for your Auth0 Tenant. You will find this under https://manage.auth0.com/#/tenant/advanced
 
-4. Make note of the 2 scripts here:
+4. Make note of the 2 scripts in this repository:
     - login.js
     - getUserByEmail.js
 
